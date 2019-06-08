@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DEMO</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_belling_the__cat__fable">Belling_the_Cat_Fable</string>
+    <string name="Fable_1_text">Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy, the Cat.
+
+Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make, which he thought would meet the case.
+
+You will all agree, said he, that our chief danger consists in the sly and treacherous manner in which the enemy approaches us.
+    Now, if we could receive some signal of her approach, we could easily escape from her.
+    I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat.
+    By this means we should always know when she was about, and could easily retire while she was in the neighbourhood."
+
+        This proposal met with general applause, until an old mouse got up and said
+
+    That is all very well, but who is to bell the Cat?
+
+    The mice looked at one another and nobody spoke. Then the old mouse said:
+
+    It is easy to propose impossible remedies.</string>
+
+    <string name="title_activity_the_assinthe_lions_skin_fable">TheAssintheLionsSkinFable</string>
+    <string name="title_activity_the_cockandthe_jewel">TheCockandtheJewel</string>
+    <string name="title_activity_the_cock_and_the__jewel">The_cock_and_the_Jewel</string>
+    <string name="title_activity_the_old_manand_death_fable">TheOldManandDeathFable</string>
+    <string name="title_activity_the_cat_maiden_fable">TheCatMaidenFable</string>
+    <string name="title_activity_the_monkeyandthe_dolphin">TheMonkeyandtheDolphin</string>
+    <string name="title_activity_the_bellyandthe_members_fable">TheBellyandtheMembersFable</string>
+    <string name="title_activity_the_old_womanandthe_wine_jar_fable">TheOldWomanandtheWineJarFable
+    </string>
+</resources>
