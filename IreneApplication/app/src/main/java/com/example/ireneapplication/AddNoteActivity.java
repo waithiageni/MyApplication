@@ -42,7 +42,7 @@ public class AddNoteActivity extends AppCompatActivity {
             public void onClick(View v) {
                 title =etTitle.getText().toString();
                 noteText = etNote.getText().toString();
-                Note note = new Note(title,noteText);
+                Note note = new Note(noteText,title);
                 DatabaseHelper databaseHelper = new DatabaseHelper(getBaseContext(),"notes",null,1);
                 long insert = databaseHelper.insertNote(note);
                 Log.d("inserNote","note insertion value"+ insert);

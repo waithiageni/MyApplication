@@ -8,6 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 public class AddViewActvity extends AppCompatActivity {
+    int noteId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,6 +18,19 @@ public class AddViewActvity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
+
     }
+
+    private void getNotebyId(){
+
+        Bundle extras = getIntent().getExtras();
+        if (extras!=null){
+            int noteId=extras.getInt("noteId");
+
+
+        }
+    }
+
+
 
 }

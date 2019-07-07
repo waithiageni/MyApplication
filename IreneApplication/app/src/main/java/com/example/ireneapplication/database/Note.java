@@ -16,6 +16,10 @@ public class Note {
         this.title = title;
     }
 
+    public Note() {
+
+    }
+
     public int getId() {
         return Id;
     }

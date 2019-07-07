@@ -27,6 +27,7 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <TextView
+            android:id="@+id/textViewTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="THE FORGIVING FREE SPIRIT"
@@ -42,6 +43,7 @@
 
 
          <TextView
+             android:id="@+id/textViewNoteText"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:text="One of the most powerful art pieces from Burning Man.A sculpture of two adults after a disagreement sitting with their back at eacfh other.Yet their inner child in both of them simply wants to connect.The forgiving ,free spirit of children is our true nature."
